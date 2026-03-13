@@ -7,6 +7,7 @@ export default function Navbar(){
             </div>
             <div className="className"></div>
             <div className="className"></div>
+            <p>add code</p>
         </div>
         </>
     )
